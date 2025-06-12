@@ -1,2 +1,6 @@
 data/US_Accidents.csv
 processed/processed_accidents.csvgit-filter-repo/
+data/
+processed/
+notebooks/processed_accidents.csv
+git-filter-repo/
