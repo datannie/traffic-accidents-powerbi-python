@@ -34,7 +34,15 @@ You can download the dataset from [Kaggle - US Accidents (Sobhan Moosavi)](https
 3. Open the Power BI file (`accident_dashboard.pbix`) to explore the visualizations.
 
 ## 📷 Screenshots
-*(Insert dashboard images here)*
+# Traffic Accident Analysis Dashboard
+
+[![Dashboard Cover](images/dashboard_cover.png)](https://app.powerbi.com/view?r=eyJrIjoiZTljYjNiMjYtYTQ1My00ODk4LWE5ZjAtZTAwMWIzY2ExNjQ0IiwidCI6ImZiNTFlNGNlLTg3ZDEtNGY5OS1hMmYwLTM4OGJiM2M3OWQ1MiIsImMiOjl9)
+
+> 🎯 An interactive dashboard that analyzes traffic accidents to help identify high-risk locations and conditions.
+
+## 📊 Preview
+
+![Dashboard Overview](images/overview.jpeg)
 
 ## 📬 Contact
 Created by Annie Abreu – [annie@datannie.com] – feel free to reach out!
